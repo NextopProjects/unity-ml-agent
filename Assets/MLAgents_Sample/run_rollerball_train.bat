@@ -1,5 +1,5 @@
 call ../../.venv\Scripts\activate.bat
 
-mlagents-learn rollerball_config.yaml --resume
+mlagents-learn rollerball_config.yaml
 
 pause
